@@ -23,8 +23,8 @@ https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32
 	•	ESPAsyncWebServer
 	•	ArduinoJson
 	4.	Upload the Code:
-	•	Use the provided xiao_esp32c3.ino code.
-	•	Configure Wi-Fi credentials or Bluetooth settings in the code.
+	•	Use the code provided above.
+	•	Configure Wi-Fi credentials in the code.
 	•	Connect the board and upload the code via Arduino IDE.
 
 3. How to Use
