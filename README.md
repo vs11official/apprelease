@@ -35,9 +35,8 @@ https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32
 	•	Wi-Fi Mode:
 	•	Connect your phone to the board’s Wi-Fi network.
 	3.	Control the LED:
-	•	Use the mobile app to toggle the LED.
-
-4. Additional Notes
+	•	Use the application app to toggle the LED,which you can download the application in releases
+s4. Additional Notes
 
 	•	Ensure the XIAO ESP32C3 board is properly configured in Arduino IDE under Tools > Board.
 	•	Test the connections before powering on to avoid damage to components.
